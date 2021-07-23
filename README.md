@@ -3,5 +3,3 @@
 See [notebook](notebook.ipynb) for more information.
 
 See the figures in [docs](docs)
-
-{% include_relative docs/imdb-remakes.html %}
